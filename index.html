@@ -2,21 +2,36 @@
 <html>
 <head>
   <link rel="stylesheet" href="base/color.css">
-  <link rel="stylesheet" href="index.css">
   <style>
-    body { font-family: sans-serif; padding: 40px; }
+    body {
+      font-family: sans-serif;
+      padding: 40px;
+      background-color: #f4f4f4;
+    }
+    .btn {
+      display: inline-block;
+      padding: 20px 32px;
+      font-size: 28px;
+      font-weight: 700;
+      border-radius: 12px;
+      cursor: pointer;
+      margin-bottom: 40px;
+    }
     .btn-primary {
       background-color: var(--color-primary);
       color: var(--color-primary-text);
-      padding: 12px 24px;
       border: none;
-      border-radius: 8px;
-      font-size: 16px;
-      cursor: pointer;
+    }
+    .btn-secondary {
+      background-color: var(--color-secondary);
+      color: var(--color-secondary-text);
+      border: 1px solid var(--color-primary);
     }
   </style>
 </head>
 <body>
-  <button class="btn-primary">Primary button</button>
+  <button class="btn btn-primary">Primary Button</button>
+  <br>
+  <button class="btn btn-secondary">Secondary Button</button>
 </body>
 </html>
