@@ -8,4 +8,12 @@
   --color-secondary: #dfdbfd;
   --color-primary-text: #ffffff;
   --color-secondary-text: #000000;
+  --color-primary: #5b21d6;
+  --color-primary-text: #ffffff;
+  --color-secondary: #ede9fe;
+  --color-secondary-text: #1f2430;
+  --color-tertiary: #f59e0b;
+  --color-tertiary-text: #1f2430;
+  --color-neutral-white: #ffffff;
+  --color-neutral-black: #000000;
 }
