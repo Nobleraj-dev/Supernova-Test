@@ -4,7 +4,7 @@
  */
 
 :root {
-  --string-font-family-heading: "Georgia";
+  --string-font-family-heading: "Montserrat";
   --string-font-family-ui: "Open Sans";
   --dimension-font-family-spacing-xs: 0px;
   --dimension-font-weight-regular: 400px;
@@ -16,16 +16,16 @@
   --dimension-font-size-small: 15px;
   --dimension-spacing-xs: 8px;
   --dimension-spacing-sm: 12px;
-  --dimension-spacing-md: 20px;
+  --dimension-spacing-md: 28px;
   --dimension-spacing-lg: 32px;
   --dimension-spacing-xl: 48px;
   --color-primary: #0010a4;
   --color-secondary: #dfdbfd;
   --color-primary-text: #ffffff;
   --color-secondary-text: #000000;
-  --color-primary: #5b21d6;
+  --color-primary: #d62188;
   --color-primary-text: #ffffff;
-  --color-secondary: #ede9fe;
+  --color-secondary: #fee9fe;
   --color-secondary-text: #1f2430;
   --color-tertiary: #f59e0b;
   --color-tertiary-text: #1f2430;
